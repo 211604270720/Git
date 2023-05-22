@@ -3,15 +3,15 @@
 ## Оглавление
   [1. Описание проекта](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
 
-  [2. Какой кейс решаем?](#Какой-кейс-решаем)
+  [2. Какой кейс решаем?](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Какой-кейс-решаем)
 
-  [3. Краткая информация о данных](https://github.com/211604270720/Git/README.md#Краткая-информация-о-данных)
+  [3. Краткая информация о данных](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Краткая-информация-о-данных)
 
-  [4. Этапы работы над проектом](https://github.com/211604270720/Git/README.md#Этапы-работы-над-проектом)
+  [4. Этапы работы над проектом](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Этапы-работы-над-проектом)
 
-  [5. Результаты](https://github.com/211604270720/Git/README.md#Результаты)
+  [5. Результаты](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Результаты)
 
-  [6. Выводы](https://github.com/211604270720/Git/README.md#Выводы)
+  [6. Выводы](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Выводы)
 
 ### Описание проекта
 
@@ -22,7 +22,7 @@
 Чем это плохо?
 Это является помехой для рекомендательной системы HeadHunter, которая подбирает соискателям список наиболее подходящих вакансий, а работодателям — список наиболее подходящих специалистов.
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -58,7 +58,7 @@
 
 Файл с исходными данными [здесь.](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing)
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
 
 ### Этапы работы над проектом
   1. Базовый анализ структуры данных;
@@ -66,7 +66,7 @@
   3. Разведывательный анализ данных;
   4. Очистка данных.
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
 
 ### Результаты
 
@@ -74,7 +74,7 @@
 
 [Ссылка на код](https://github.com/211604270720/Git/blob/master/PROJECT-1/Project-1.ipynb)
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
 
 ### Выводы
 
@@ -82,4 +82,4 @@
 
 [Ссылка на код](https://github.com/211604270720/Git/blob/master/PROJECT-1/Project-1.ipynb)
 
-:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Описание-проекта)
+:arrow_up: [к оглавлению](https://github.com/211604270720/Git/blob/master/PROJECT-1/README.md#Оглавление)
